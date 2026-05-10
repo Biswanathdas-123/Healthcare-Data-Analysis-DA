@@ -1,0 +1,16 @@
+Patient_ID,Age,Gender,Disease,Blood_Pressure,Heart_Rate,Diabetes
+P001,25,Male,Fever,120,80,No
+P002,45,Female,Diabetes,140,85,Yes
+P003,60,Male,Hypertension,150,90,Yes
+P004,35,Female,Asthma,118,78,No
+P005,50,Male,Diabetes,145,88,Yes
+P006,28,Female,Fever,122,82,No
+P007,65,Male,Heart Disease,160,95,Yes
+P008,40,Female,Hypertension,138,84,No
+P009,55,Male,Diabetes,148,89,Yes
+P010,30,Female,Asthma,115,76,No
+P011,48,Male,Heart Disease,155,92,Yes
+P012,33,Female,Fever,121,79,No
+P013,58,Male,Hypertension,152,91,Yes
+P014,27,Female,Asthma,117,77,No
+P015,52,Male,Diabetes,146,87,Yes
